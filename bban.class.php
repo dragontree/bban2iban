@@ -46,7 +46,7 @@ class bban {
             11 => array(10),
             55 => array(9),
             93 => array(10),
-            17 => array(8, 11),
+            17 => array(11),
             12 => array(10),
             96 => array(13),
             83 => array(10),
